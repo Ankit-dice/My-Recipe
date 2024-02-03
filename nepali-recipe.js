@@ -1,0 +1,4 @@
+rice 
+fish
+momos
+noodles
